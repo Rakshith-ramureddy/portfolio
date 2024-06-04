@@ -1,10 +1,11 @@
 title: Rakshith Ramureddy
 
-description: |
-  Email: rakshithreddy2012@gmail.com
-  Mobile: +44 75088 79149
-  LinkedIn: https://www.linkedin.com/in/rakshith-ramureddy-25020010b
-
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/rakshith-ramureddy-25020010b
+  - name: Email
+    url: mailto:rakshithreddy2012@gmail.com  
+    
 work_experience: |
   - title: Store Assistant and Inventory Management
     company: Clarks Bakery
