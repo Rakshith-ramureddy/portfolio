@@ -1,37 +1,18 @@
-# Rakshith Ramureddy
+# Business Analyst
 
-<div style="text-align:center; margin-bottom:20px;">
-    <strong>Email:</strong> <a href="mailto:rakshithreddy2012@gmail.com">rakshithreddy2012@gmail.com</a>  
-    <strong>Phone:</strong> +44 75088 79149  
-    <strong>Location:</strong> Dundee, United Kingdom  
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rakshith-ramureddy-25020010">rakshith-ramureddy-25020010</a>
-</div>
+## Skills
 
----
+### Technical Skills
+- **Python & R Programming**
+- **PowerBI & Tableau Visualization** 
+- **SQL** 
 
-## Work Experience
+### Non-Technical Skills
+- **Database Management** 
+- **Stakeholder Engagement** 
+- **Data Analysis** 
 
-### Customer and Inventory Assistant, Clarks Bakery, Dundee, UK
-**03/2023 – Current**
-- Handled over 50 customers daily, ensuring a high level of customer satisfaction.
-- Managed inventory with an accuracy rate of over 95%.
-- Ensured sublet inventory of smaller branches around Dundee, achieving a 99% satisfaction rate.
 
-### Telecom Engineer, Movate, India
-**12/2021 – 12/2022**
-- Resolved 95% of Level 1/2 customer cases within SLA, improving customer satisfaction by 12%.
-- Documented all customer interactions, contributing to a 15% increase in efficiency.
-- Escalated critical cases to senior team members, reducing resolution time by 25%.
-- Consistently met or exceeded performance targets for KRAs.
-
-### Process Consultant, Hinduja Global Solutions, India
-**08/2019 – 11/2021**
-- Led cross-functional teams to solve technical problems, increasing process efficiency by 10%.
-- Trained 20+ front-line staff on new process improvements, resulting in a 5% productivity boost.
-- Prepared process maps and documentation, reducing operational bottlenecks by 7%.
-- Developed and implemented business process models, optimizing operations by 22%.
-
----
 
 ## Skills
 
