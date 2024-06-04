@@ -1,5 +1,3 @@
-# Business Analyst
-
 ## Skills
 
 ### Technical Skills
@@ -15,8 +13,8 @@
 ---
 ## Education
 
-|### University of Dundee, UK |  | **01/2023 – 01/2024** |
-
+### University of Dundee, UK  
+**01/2023 – 01/2024**
 - MSc – Business Analytics & Big Data (with Merit)
 
 ### Great Lakes Institute, India
