@@ -1,19 +1,21 @@
 title: Rakshith Ramureddy
 description: |
-  **Email:** [rakshithreddy2012@gmail.com](mailto:rakshithreddy2012@gmail.com)  
+  Email: [rakshithreddy2012@gmail.com](mailto:rakshithreddy2012@gmail.com)  
   **Mobile:** +44 75088 79149  
   **LinkedIn:** [Rakshith Ramureddy](https://www.linkedin.com/in/rakshith-ramureddy-25020010b)
+  
+  **Work Experience:**
+  - **Store Assistant and Inventory Management**  
+    *Clarks Bakery, Dundee, UK*  
+    *03/2023 – Current*
 
-work_experience:
-  - position: Store Assistant and Inventory Management
-    company: Clarks Bakery, Dundee, UK
-    duration: "03/2023 – Current"
-  - position: Telecom Engineer
-    company: Movate, India
-    duration: "12/2021 – 12/2022"
-  - position: Process Consultant
-    company: Hinduja Global Solutions, India
-    duration: "08/2019 – 11/2021"
+  - **Telecom Engineer**  
+    *Movate, India*  
+    *12/2021 – 12/2022*
+
+  - **Process Consultant**  
+    *Hinduja Global Solutions, India*  
+    *08/2019 – 11/2021*
 
 show_downloads: true
 theme: jekyll-theme-minimal
