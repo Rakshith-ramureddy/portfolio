@@ -10,17 +10,14 @@ work_experience: |
     company: Clarks Bakery
     location: Dundee, UK
     duration: 03/2023 – Current
-
   - title: Telecom Engineer
     company: Movate
     location: India
     duration: 12/2021 – 12/2022
-
   - title: Process Consultant
     company: Hinduja Global Solutions
     location: India
     duration: 08/2019 – 11/2021
 
-show_downloads: false
-theme: jekyll-theme-minimal
-
+show_downloads: true
+theme: jekyll-theme-cayman
