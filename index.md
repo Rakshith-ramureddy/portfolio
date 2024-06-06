@@ -37,7 +37,7 @@ The assignment involved applying advanced statistical techniques, specifically A
 ### Data Mining
 
 
-<img src="/assets/img/data-mining.jpeg" alt="Data Mining" width="1080" height="1080">
+<img src="/assets/img/data-mining.jpeg" alt="Data Mining" width="1080" height="600">
 The "Data Mining Final Business Report" involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
 
 **Clustering Analysis:**
