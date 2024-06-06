@@ -29,15 +29,14 @@
 
 ## Projects
 
-## Advance Statistics
+### Advance Statistics
 ![Advance-Statistics](/assets/img/Advanced-Analytics-Statistics.jpg)
 
 The assignment involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
 
-## Data Mining
+### Data Mining
 
-### Data-Mining-Project
-
+![Data-Mining](/assets/img/data-mining.jpeg) 
 The "Data Mining Final Business Report" involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
 
 **Clustering Analysis:**
@@ -53,11 +52,11 @@ The "Data Mining Final Business Report" involves comprehensive data analysis to 
 - The best model is identified, and business insights along with recommendations are provided based on the analysis.
 - This structured approach to data mining and model building enhances understanding of customer segmentation and predictive modeling, which can significantly benefit future business strategies and decision-making processes.
 
-## Forecasting
+### Forecasting
 
 The final business report employs data mining techniques on bank marketing and insurance datasets to derive actionable insights. It begins with exploratory data analysis, followed by scaling the data for clustering. Hierarchical and K-Means clustering methods are applied, identifying optimal clusters with dendrograms, elbow curves, and silhouette scores. Cluster profiles are developed, recommending targeted promotional strategies for each segment. The report builds and evaluates classification models (CART, Random Forest, Artificial Neural Networks) on split data using accuracy, confusion matrix, ROC curves, and ROC_AUC scores. The best-performing model is selected based on these metrics. Key findings include the significant impact of scaling on clustering accuracy, the identification of three optimal clusters, and the superior performance of the Random Forest model with an accuracy of 92%. These insights are used to enhance marketing strategies and improve customer targeting.
 
-## Machine Learning
+### Machine Learning
 
 This report explores the use of machine learning models to predict the preferred mode of transport for employees of ABC Consulting and performs a text mining analysis on Shark Tank episodes data to understand factors influencing deal success.
 
@@ -67,7 +66,7 @@ In Part 2, a text mining exercise on 495 Shark Tank pitches identified common wo
 
 The findings demonstrate the effectiveness of machine learning in predicting transport preferences and highlight the importance of specific language in pitch success, suggesting further detailed analysis for improved insights.
 
-## Predictive Modelling
+### Predictive Modelling
 
 This report explores predictive modeling techniques to forecast firm sales and analyze car crash survival probabilities.
 
@@ -80,11 +79,11 @@ Car crash data comprising 11,217 records was used to predict survival outcomes u
 **Conclusion**
 The linear regression model effectively predicts firm sales, emphasizing the importance of employment, capital, and patents. Logistic regression provides highly accurate predictions of car crash survival, underscoring the vital role of safety features like airbags and seatbelts. These insights can guide strategic investment decisions and inform policy-making to enhance vehicle safety standards.
 
-## SQL: Orders Data Analysis
+### SQL: Orders Data Analysis
 
 This project focuses on the management and analysis of an orders dataset using SQL to derive actionable business insights. It involves data insertion, updating records, and creating indexes to optimize database performance. Key SQL queries were executed to extract meaningful information, such as identifying the smallest carton capable of accommodating a specific order’s volume, retrieving details of significant customers with large shipped orders, analyzing recent orders, and determining the most ordered product class excluding certain countries. The project’s objectives include efficient data management, insightful analysis, and performance optimization. The outcomes demonstrate an organized and optimized database, actionable insights for business strategy, and improved decision-making capabilities. This project exemplifies the effective use of SQL in real-world scenarios to enhance operational efficiency and support strategic business decisions.
 
-## Tableau Visualization
+### Tableau Visualization
 
 <div class='tableauPlaceholder' id='viz1717531980231' style='position: relative'>
     <noscript>
