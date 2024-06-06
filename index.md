@@ -30,6 +30,7 @@
 ## Projects
 
 ## Advance Statistics
+![Advance-Statistics](/assets/img/Advanced-Analytics-Statistics.jpg)
 
 The assignment involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
 
