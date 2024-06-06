@@ -36,7 +36,8 @@ The assignment involved applying advanced statistical techniques, specifically A
 
 ### Data Mining
 
-![Data-Mining](assets/img/data-mining.jpeg) 
+
+<img src="https://github.com/Rakshith-ramureddy/portfolio/assets/img/data-mining.jpeg" alt="Data Mining" width="1920" height="1080">
 The "Data Mining Final Business Report" involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
 
 **Clustering Analysis:**
