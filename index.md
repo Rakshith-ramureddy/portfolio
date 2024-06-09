@@ -35,13 +35,17 @@
 <div style="text-align: justify;">
 The assignment involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
 </div>
-
+<p style="margin-bottom: 20px;">
+    
 ### Data Mining
+</p>
 
 ![Data-Mining](assets/img/datamining.jpeg)
 
 <div style="text-align: justify;">
+    
 The "Data Mining Final Business Report" involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
+</div>
 
 **Clustering Analysis:**
 - It starts with exploratory data analysis including univariate, bivariate, and multivariate analysis.
@@ -55,56 +59,87 @@ The "Data Mining Final Business Report" involves comprehensive data analysis to 
 - Performance metrics like accuracy, confusion matrix, ROC curves, and AUC scores are used to evaluate these models.
 - The best model is identified, and business insights along with recommendations are provided based on the analysis.
 - This structured approach to data mining and model building enhances understanding of customer segmentation and predictive modeling, which can significantly benefit future business strategies and decision-making processes.
-</div>
+
+<p style="margin-bottom: 20px;">
 
 ### Forecasting
+</p>
 
 ![Forecasting](assets/img/forecasting.jpeg)
 
 <div style="text-align: justify;">
 The final business report employs data mining techniques on bank marketing and insurance datasets to derive actionable insights. It begins with exploratory data analysis, followed by scaling the data for clustering. Hierarchical and K-Means clustering methods are applied, identifying optimal clusters with dendrograms, elbow curves, and silhouette scores. Cluster profiles are developed, recommending targeted promotional strategies for each segment. The report builds and evaluates classification models (CART, Random Forest, Artificial Neural Networks) on split data using accuracy, confusion matrix, ROC curves, and ROC_AUC scores. The best-performing model is selected based on these metrics. Key findings include the significant impact of scaling on clustering accuracy, the identification of three optimal clusters, and the superior performance of the Random Forest model with an accuracy of 92%. These insights are used to enhance marketing strategies and improve customer targeting.
-</div>
 
+</div>
+<p style="margin-bottom: 20px;">
+    
 ### Machine Learning
+</p>
 
 ![Machine-learning](assets/img/machine-learning.jpeg)
 
 <div style="text-align: justify;">
+    
+<p style="margin-bottom: 20px;">
+    
 This report explores the use of machine learning models to predict the preferred mode of transport for employees of ABC Consulting. It performs a text mining analysis on Shark Tank episode data to understand factors influencing deal success.
-
+</p>
+<p style="margin-bottom: 20px;">   
 In Part 1, a dataset from Transport.csv with 444 records and features such as age, salary, and work experience were analyzed. No missing values were identified. Univariate and bivariate analyses revealed right-skewed distributions and correlations among numerical features. Outliers were treated, and features were scaled using min-max scaling. Various machine learning models were trained and evaluated, with the Gradient Boosting Classifier achieving the highest performance (AUC = 0.98, training accuracy = 92%, testing accuracy = 81%). Key insights include the influence of distance, age, and salary on transport mode preference, with a majority favoring public transport.
+</p>
 
+<p style="margin-bottom: 20px;">
 In Part 2, a text mining exercise on 495 Shark Tank pitches identified common words in descriptions of pitches that secured deals versus those that did not. The analysis revealed that pitches mentioning “devices” were less likely to secure deals, though other factors also play significant roles. Word clouds highlighted terms like “online service” and “easy” in successful pitches, while “service” and “traditional” were more common in unsuccessful ones.
+</p>
 
+<p style="margin-bottom: 20px;">
 The findings demonstrate the effectiveness of machine learning in predicting transport preferences and highlight the importance of specific language in pitch success, suggesting further detailed analysis for improved insights.
-</div>
+</p>
 
+</div>
+<p style="margin-bottom: 20px;">
+    
 ### Predictive Modelling
+</p>
 
 ![Predictive](assets/img/predictive.jpeg)
 
 <div style="text-align: justify;">
+    
 This report explores predictive modeling techniques to forecast firm sales and analyze car crash survival probabilities.
-
+<p style="margin-bottom: 20px;">
+    
 **Problem 1: Firm Sales Prediction**
 A dataset of 759 firms was analyzed to predict sales using linear regression. Key attributes included sales, capital, patents, R&D stock, and employment. Univariate and bivariate analyses highlighted significant correlations between sales and factors such as capital and employment. After addressing missing values and encoding categorical data, the linear regression model achieved an R² of 0.936 on training data and 0.893 on testing data, with an RMSE of 2164.49 and 2953.57, respectively. Employment, capital, and patents emerged as the most influential predictors of sales.
+</p>
 
+<p style="margin-bottom: 20px;">
+    
 **Problem 2: Car Crash Survival Prediction**
 Car crash data comprising 11,217 records was used to predict survival outcomes using logistic regression and linear discriminant analysis (LDA). The dataset included attributes like weight, age, airbag deployment, and seatbelt usage. Logistic regression outperformed LDA, achieving an accuracy of 98% and a ROC_AUC score of 0.991 on both training and testing datasets. The analysis identified airbag deployment, seatbelt usage, and occupant age as critical factors influencing survival probabilities.
+</p>
 
+<p style="margin-bottom: 20px;">
+    
 **Conclusion**
 The linear regression model effectively predicts firm sales, emphasizing the importance of employment, capital, and patents. Logistic regression provides highly accurate predictions of car crash survival, underscoring the vital role of safety features like airbags and seatbelts. These insights can guide strategic investment decisions and inform policy-making to enhance vehicle safety standards.
-</div>
+</p>
 
+</div>
+<p style="margin-bottom: 20px;">
+    
 ### SQL: Orders Data Analysis
+</p>
 
 ![SQL](assets/img/SQL.png)
 
 <div style="text-align: justify;">
 This project focuses on managing and analyzing an orders dataset using SQL to derive actionable business insights. It involves data insertion, updating records, and creating indexes to optimize database performance. Key SQL queries were executed to extract meaningful information, such as identifying the smallest carton capable of accommodating a specific order’s volume, retrieving details of significant customers with large shipped orders, analyzing recent orders, and determining the most ordered product class excluding certain countries. The project’s objectives include efficient data management, insightful analysis, and performance optimization. The outcomes demonstrate an organized and optimized database, actionable insights for business strategy, and improved decision-making capabilities. This project exemplifies the effective use of SQL in real-world scenarios to enhance operational efficiency and support strategic business decisions.
 </div>
-
+<p style="margin-bottom: 20px;">
+    
 ### Tableau Visualization
+</p>
 
 <div class='tableauPlaceholder' id='viz1717531980231' style='position: relative'>
     <noscript>
