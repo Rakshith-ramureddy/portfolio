@@ -110,20 +110,29 @@ The findings demonstrate the effectiveness of machine learning in predicting tra
 This report explores predictive modeling techniques to forecast firm sales and analyze car crash survival probabilities.
 <p style="margin-bottom: 20px;">
 </p>
+</div>
 
 **Problem 1: Firm Sales Prediction**
+
+<div style="text-align: justify;">
 A dataset of 759 firms was analyzed to predict sales using linear regression. Key attributes included sales, capital, patents, R&D stock, and employment. Univariate and bivariate analyses highlighted significant correlations between sales and factors such as capital and employment. After addressing missing values and encoding categorical data, the linear regression model achieved an R² of 0.936 on training data and 0.893 on testing data, with an RMSE of 2164.49 and 2953.57, respectively. Employment, capital, and patents emerged as the most influential predictors of sales.
 
 <p style="margin-bottom: 20px;">
 </p>
+</div>
 
 **Problem 2: Car Crash Survival Prediction**
+
+<div style="text-align: justify;">
 Car crash data comprising 11,217 records was used to predict survival outcomes using logistic regression and linear discriminant analysis (LDA). The dataset included attributes like weight, age, airbag deployment, and seatbelt usage. Logistic regression outperformed LDA, achieving an accuracy of 98% and a ROC_AUC score of 0.991 on both training and testing datasets. The analysis identified airbag deployment, seatbelt usage, and occupant age as critical factors influencing survival probabilities.
 
 <p style="margin-bottom: 20px;">
 </p>
-    
+</div>
+
 **Conclusion**
+
+<div style="text-align: justify;">
 The linear regression model effectively predicts firm sales, emphasizing the importance of employment, capital, and patents. Logistic regression provides highly accurate predictions of car crash survival, underscoring the vital role of safety features like airbags and seatbelts. These insights can guide strategic investment decisions and inform policy-making to enhance vehicle safety standards.
 
 </div>
