@@ -3,33 +3,110 @@
 ### Technical Skills
 - **Python & R Programming**
 - **PowerBI & Tableau Visualization** 
-- **SQL** 
+- **SQL**
+- **Visual Paradigm**
+
 
 ### Non-Technical Skills
 - **Database Management** 
 - **Stakeholder Engagement** 
-- **Data Analysis** 
+- **Data Analysis**
+- **Agile Methodologies**
 
 ---
 ## Education
 
 ### University of Dundee, UK  
 **01/2023 – 01/2024**
-- MSc – Business Analytics & Big Data (with Merit)
+- *MSc – Business Analytics & Big Data (with Merit)*
 
 ### Great Lakes Institute, India
 **04/2021 – 05/2022**
-- PGP – Data Science & Business Analytics
+- *PGP – Data Science & Business Analytics*
 
 ### Visvesvaraya Tech University, India
 **08/2014 – 08/2020**
-- Bachelor of Engineering in Electronics and Communication
+- *Bachelor of Engineering in Electronics and Communication*
 
 ---
 
 ## Projects
 
-### Advance Statistics
+### Comprehensive Software Engineering Analysis and Design for a Vending Machine System
+
+#### Project Summary
+<div style="text-align: justify;">
+This project involves the comprehensive analysis and design of a software system for a drinks vending machine, conducted in two major assignments. The first assignment, completed as a team, focused on various analysis models, while the second assignment, completed individually, focused on design models. The key components included creating use case diagrams, performing threat modeling using STRIDE analysis, conducting candidate class analysis, designing UML class diagrams, and developing behavioral designs using UML sequence diagrams and design patterns.
+</div>
+<p style="margin-bottom: 20px;">
+</p>
+
+#### Learning Outcomes
+<p style="margin-bottom: 20px;">
+</p>
+
+- **Software Specification and Design Principles**: Demonstrated an understanding of various software specification and design principles, practices, and notations.
+
+- **Software Requirements Specification**: Applied methods of software requirements specification, conforming to accepted industry practices, by creating detailed use case diagrams and specifications.
+
+- **Software Security Awareness**: Identified and analyzed potential security threats using STRIDE analysis, demonstrating an awareness of software security issues during the analysis and design phases.
+
+- **Visual Notations for Software Systems**: Utilized visual notations, such as UML diagrams, to effectively communicate the analysis and design of the software system.
+
+- **Object-oriented Analysis and Design**: Employed object-oriented analysis techniques to identify candidate classes and depict structural designs through UML class diagrams.
+
+- **Behavioral Design Techniques**: Formulated and conveyed behavioral designs for the vending machine system using UML sequence diagrams.
+
+- **Design Patterns**: Applied design patterns to enhance the system's design, focusing on qualitative aspects such as extensibility and maintainability.
+
+- **Design Quality Evaluation**: Critically evaluated the quality of software designs against known design principles and quality characteristics.
+
+- **Problem-solving and Communication Skills**: Developed and applied problem-solving, communication, team-working, reporting, time-management, and independent study skills throughout the project.
+<p style="margin-bottom: 20px;">
+</p>
+
+#### Assignment 1: Analysis Models
+<p style="margin-bottom: 20px;">
+</p>
+
+**Tasks:**
+1. **Use Case Diagram**: Created a UML use case diagram identifying actors and use cases for the vending machine system.
+2. **STRIDE Analysis**: Performed a threat modeling task to identify potential security threats and suggest mitigations.
+3. **Use Case Specifications**: Documented use case specifications, including basic and alternative flows, and supplementary requirements.
+4. **Candidate Class Analysis**: Conducted a noun analysis to identify system classes and justified their selection or rejection.
+5. **UML Class Diagram**: Developed a UML class diagram depicting the structural design of the system.
+<p style="margin-bottom: 20px;">
+</p>
+
+**Objectives:**
+- Efficient data management.
+- Insightful analysis of system requirements.
+- Performance optimization through detailed design documentation.
+<p style="margin-bottom: 20px;">
+</p>
+
+#### Assignment 2: Design Models
+<p style="margin-bottom: 20px;">
+</p>
+
+**Tasks:**
+1. **UML Sequence Diagrams**: Created sequence diagrams to show how system classes deliver functionality described in use cases.
+2. **Design Patterns Task**: Identified and applied relevant design patterns, demonstrating understanding of their benefits and implementation.
+<p style="margin-bottom: 20px;">
+</p>
+
+**Objectives:**
+- Formulating and conveying behavioral designs.
+- Enhancing system design with design patterns.
+- Ensuring comprehensive coverage of system functionality.
+<p style="margin-bottom: 20px;">
+</p>
+This project exemplifies the effective use of software engineering principles in real-world scenarios to enhance operational efficiency and support strategic decision-making through detailed analysis and design models.
+
+<p style="margin-bottom: 20px;">
+</p>
+
+### Advanced Statistics
 
 ![Advance-Statistics](/assets/img/Advanced-Analytics-Statistics.jpg)
 <div style="text-align: justify;">
