@@ -36,9 +36,9 @@
 The assignment involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
 </div>
 <p style="margin-bottom: 20px;">
-    
-### Data Mining
 </p>
+
+### Data Mining
 
 ![Data-Mining](assets/img/datamining.jpeg)
 
@@ -48,6 +48,7 @@ The "Data Mining Final Business Report" involves comprehensive data analysis to 
 </div>
 
 **Clustering Analysis:**
+
 - It starts with exploratory data analysis including univariate, bivariate, and multivariate analysis.
 - Scaling of data for clustering is evaluated.
 - Hierarchical and K-means clustering are applied to the scaled data to identify optimal clusters. Methods such as dendrograms, elbow curves, and silhouette scores are used to determine the number of clusters.
@@ -61,9 +62,9 @@ The "Data Mining Final Business Report" involves comprehensive data analysis to 
 - This structured approach to data mining and model building enhances understanding of customer segmentation and predictive modeling, which can significantly benefit future business strategies and decision-making processes.
 
 <p style="margin-bottom: 20px;">
+</p>
 
 ### Forecasting
-</p>
 
 ![Forecasting](assets/img/forecasting.jpeg)
 
@@ -72,9 +73,9 @@ The final business report employs data mining techniques on bank marketing and i
 
 </div>
 <p style="margin-bottom: 20px;">
-    
-### Machine Learning
 </p>
+
+### Machine Learning
 
 ![Machine-learning](assets/img/machine-learning.jpeg)
 
@@ -98,9 +99,9 @@ The findings demonstrate the effectiveness of machine learning in predicting tra
 
 </div>
 <p style="margin-bottom: 20px;">
-    
-### Predictive Modelling
 </p>
+ 
+### Predictive Modelling
 
 ![Predictive](assets/img/predictive.jpeg)
 
@@ -108,28 +109,28 @@ The findings demonstrate the effectiveness of machine learning in predicting tra
     
 This report explores predictive modeling techniques to forecast firm sales and analyze car crash survival probabilities.
 <p style="margin-bottom: 20px;">
-    
+</p>
+
 **Problem 1: Firm Sales Prediction**
 A dataset of 759 firms was analyzed to predict sales using linear regression. Key attributes included sales, capital, patents, R&D stock, and employment. Univariate and bivariate analyses highlighted significant correlations between sales and factors such as capital and employment. After addressing missing values and encoding categorical data, the linear regression model achieved an R² of 0.936 on training data and 0.893 on testing data, with an RMSE of 2164.49 and 2953.57, respectively. Employment, capital, and patents emerged as the most influential predictors of sales.
-</p>
 
 <p style="margin-bottom: 20px;">
-    
+</p>
+
 **Problem 2: Car Crash Survival Prediction**
 Car crash data comprising 11,217 records was used to predict survival outcomes using logistic regression and linear discriminant analysis (LDA). The dataset included attributes like weight, age, airbag deployment, and seatbelt usage. Logistic regression outperformed LDA, achieving an accuracy of 98% and a ROC_AUC score of 0.991 on both training and testing datasets. The analysis identified airbag deployment, seatbelt usage, and occupant age as critical factors influencing survival probabilities.
-</p>
 
 <p style="margin-bottom: 20px;">
+</p>
     
 **Conclusion**
 The linear regression model effectively predicts firm sales, emphasizing the importance of employment, capital, and patents. Logistic regression provides highly accurate predictions of car crash survival, underscoring the vital role of safety features like airbags and seatbelts. These insights can guide strategic investment decisions and inform policy-making to enhance vehicle safety standards.
-</p>
 
 </div>
 <p style="margin-bottom: 20px;">
+</p>
     
 ### SQL: Orders Data Analysis
-</p>
 
 ![SQL](assets/img/SQL.png)
 
@@ -137,9 +138,9 @@ The linear regression model effectively predicts firm sales, emphasizing the imp
 This project focuses on managing and analyzing an orders dataset using SQL to derive actionable business insights. It involves data insertion, updating records, and creating indexes to optimize database performance. Key SQL queries were executed to extract meaningful information, such as identifying the smallest carton capable of accommodating a specific order’s volume, retrieving details of significant customers with large shipped orders, analyzing recent orders, and determining the most ordered product class excluding certain countries. The project’s objectives include efficient data management, insightful analysis, and performance optimization. The outcomes demonstrate an organized and optimized database, actionable insights for business strategy, and improved decision-making capabilities. This project exemplifies the effective use of SQL in real-world scenarios to enhance operational efficiency and support strategic business decisions.
 </div>
 <p style="margin-bottom: 20px;">
+</p>
     
 ### Tableau Visualization
-</p>
 
 <div class='tableauPlaceholder' id='viz1717531980231' style='position: relative'>
     <noscript>
