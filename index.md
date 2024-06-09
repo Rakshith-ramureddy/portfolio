@@ -34,6 +34,8 @@
 
 ### Comprehensive Software Engineering Analysis and Design for a Vending Machine System
 
+![software-engg](/assets/img/software-engg.jpeg)
+
 #### Project Summary
 <div style="text-align: justify;">
 This project involves the comprehensive analysis and design of a software system for a drinks vending machine, conducted in two major assignments. The first assignment, completed as a team, focused on various analysis models, while the second assignment, completed individually, focused on design models. The key components included creating use case diagrams, performing threat modeling using STRIDE analysis, conducting candidate class analysis, designing UML class diagrams, and developing behavioral designs using UML sequence diagrams and design patterns.
@@ -110,7 +112,7 @@ This project exemplifies the effective use of software engineering principles in
 
 ![Advance-Statistics](/assets/img/Advanced-Analytics-Statistics.jpg)
 <div style="text-align: justify;">
-The assignment involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
+The project involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
 </div>
 <p style="margin-bottom: 20px;">
 </p>
@@ -121,7 +123,7 @@ The assignment involved applying advanced statistical techniques, specifically A
 
 <div style="text-align: justify;">
     
-The "Data Mining Final Business Report" involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
+This project involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
 </div>
 
 **Clustering Analysis:**
@@ -146,7 +148,7 @@ The "Data Mining Final Business Report" involves comprehensive data analysis to 
 ![Forecasting](assets/img/forecasting.jpeg)
 
 <div style="text-align: justify;">
-The final business report employs data mining techniques on bank marketing and insurance datasets to derive actionable insights. It begins with exploratory data analysis, followed by scaling the data for clustering. Hierarchical and K-Means clustering methods are applied, identifying optimal clusters with dendrograms, elbow curves, and silhouette scores. Cluster profiles are developed, recommending targeted promotional strategies for each segment. The report builds and evaluates classification models (CART, Random Forest, Artificial Neural Networks) on split data using accuracy, confusion matrix, ROC curves, and ROC_AUC scores. The best-performing model is selected based on these metrics. Key findings include the significant impact of scaling on clustering accuracy, the identification of three optimal clusters, and the superior performance of the Random Forest model with an accuracy of 92%. These insights are used to enhance marketing strategies and improve customer targeting.
+This project employs data mining techniques on bank marketing and insurance datasets to derive actionable insights. It begins with exploratory data analysis, followed by scaling the data for clustering. Hierarchical and K-Means clustering methods are applied, identifying optimal clusters with dendrograms, elbow curves, and silhouette scores. Cluster profiles are developed, recommending targeted promotional strategies for each segment. The report builds and evaluates classification models (CART, Random Forest, Artificial Neural Networks) on split data using accuracy, confusion matrix, ROC curves, and ROC_AUC scores. The best-performing model is selected based on these metrics. Key findings include the significant impact of scaling on clustering accuracy, the identification of three optimal clusters, and the superior performance of the Random Forest model with an accuracy of 92%. These insights are used to enhance marketing strategies and improve customer targeting.
 
 </div>
 <p style="margin-bottom: 20px;">
@@ -160,7 +162,7 @@ The final business report employs data mining techniques on bank marketing and i
     
 <p style="margin-bottom: 20px;">
     
-This report explores the use of machine learning models to predict the preferred mode of transport for employees of ABC Consulting. It performs a text mining analysis on Shark Tank episode data to understand factors influencing deal success.
+This project explores the use of machine learning models to predict the preferred mode of transport for employees of ABC Consulting. It performs a text mining analysis on Shark Tank episode data to understand factors influencing deal success.
 </p>
 <p style="margin-bottom: 20px;">   
 In Part 1, a dataset from Transport.csv with 444 records and features such as age, salary, and work experience were analyzed. No missing values were identified. Univariate and bivariate analyses revealed right-skewed distributions and correlations among numerical features. Outliers were treated, and features were scaled using min-max scaling. Various machine learning models were trained and evaluated, with the Gradient Boosting Classifier achieving the highest performance (AUC = 0.98, training accuracy = 92%, testing accuracy = 81%). Key insights include the influence of distance, age, and salary on transport mode preference, with a majority favoring public transport.
@@ -184,7 +186,7 @@ The findings demonstrate the effectiveness of machine learning in predicting tra
 
 <div style="text-align: justify;">
     
-This report explores predictive modeling techniques to forecast firm sales and analyze car crash survival probabilities.
+This project explores predictive modeling techniques to forecast firm sales and analyze car crash survival probabilities.
 <p style="margin-bottom: 20px;">
 </p>
 </div>
