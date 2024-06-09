@@ -30,13 +30,16 @@
 ## Projects
 
 ### Advance Statistics
+
 ![Advance-Statistics](/assets/img/Advanced-Analytics-Statistics.jpg)
 <div style="text-align: justify;">
 The assignment involved applying advanced statistical techniques, specifically ANOVA and PCA, to analyze salary data based on educational qualifications and occupations. One-way ANOVA revealed that education significantly affects salary, while occupation does not. Two-way ANOVA showed that the interaction between education and occupation influences salary more than occupation alone. Exploratory Data Analysis (EDA) was conducted to understand the data distribution and relationships, followed by scaling for PCA. PCA reduced data dimensionality, highlighting key components that explain most variance. The analyses provided insights into how higher educational qualifications lead to better salary prospects and helped simplify data to identify significant factors for business decision-making.
 </div>
+
 ### Data Mining
 
 ![Data-Mining](assets/img/datamining.jpeg)
+
 <div style="text-align: justify;">
 The "Data Mining Final Business Report" involves comprehensive data analysis to extract meaningful business insights. The report covers two major tasks:
 
@@ -53,6 +56,7 @@ The "Data Mining Final Business Report" involves comprehensive data analysis to 
 - The best model is identified, and business insights along with recommendations are provided based on the analysis.
 - This structured approach to data mining and model building enhances understanding of customer segmentation and predictive modeling, which can significantly benefit future business strategies and decision-making processes.
 </div>
+
 ### Forecasting
 
 ![Forecasting](assets/img/forecasting.jpeg)
@@ -99,6 +103,7 @@ The linear regression model effectively predicts firm sales, emphasizing the imp
 <div style="text-align: justify;">
 This project focuses on managing and analyzing an orders dataset using SQL to derive actionable business insights. It involves data insertion, updating records, and creating indexes to optimize database performance. Key SQL queries were executed to extract meaningful information, such as identifying the smallest carton capable of accommodating a specific order’s volume, retrieving details of significant customers with large shipped orders, analyzing recent orders, and determining the most ordered product class excluding certain countries. The project’s objectives include efficient data management, insightful analysis, and performance optimization. The outcomes demonstrate an organized and optimized database, actionable insights for business strategy, and improved decision-making capabilities. This project exemplifies the effective use of SQL in real-world scenarios to enhance operational efficiency and support strategic business decisions.
 </div>
+
 ### Tableau Visualization
 
 <div class='tableauPlaceholder' id='viz1717531980231' style='position: relative'>
