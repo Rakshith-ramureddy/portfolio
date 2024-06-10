@@ -151,7 +151,8 @@ This project involves comprehensive data analysis to extract meaningful business
 
 This project involves the analysis and forecasting of sales data for Sparkling Wine and Rose Wine using time series forecasting techniques. The analysis covers data from 1980 to 1995 and includes steps such as data reading, exploratory data analysis (EDA), model building, and future sales forecasting. The primary objective is to identify optimal models for accurate forecasting and to provide actionable recommendations based on the analysis.
 </div>
-
+<p style="margin-bottom: 20px;">
+</p>
 #### Sparkling Wine
 
 - **Data and Methodology**: 
