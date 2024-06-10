@@ -148,7 +148,52 @@ This project involves comprehensive data analysis to extract meaningful business
 ![Forecasting](assets/img/forecasting.jpeg)
 
 <div style="text-align: justify;">
-This project employs data mining techniques on bank marketing and insurance datasets to derive actionable insights. It begins with exploratory data analysis, followed by scaling the data for clustering. Hierarchical and K-Means clustering methods are applied, identifying optimal clusters with dendrograms, elbow curves, and silhouette scores. Cluster profiles are developed, recommending targeted promotional strategies for each segment. The report builds and evaluates classification models (CART, Random Forest, Artificial Neural Networks) on split data using accuracy, confusion matrix, ROC curves, and ROC_AUC scores. The best-performing model is selected based on these metrics. Key findings include the significant impact of scaling on clustering accuracy, the identification of three optimal clusters, and the superior performance of the Random Forest model with an accuracy of 92%. These insights are used to enhance marketing strategies and improve customer targeting.
+
+This project involves the analysis and forecasting of sales data for Sparkling Wine and Rose Wine using time series forecasting techniques. The analysis covers data from 1980 to 1995 and includes steps such as data reading, exploratory data analysis (EDA), model building, and future sales forecasting. The primary objective is to identify optimal models for accurate forecasting and to provide actionable recommendations based on the analysis.
+</div>
+
+#### Sparkling Wine
+
+- **Data and Methodology**: 
+  - Time series data was read and plotted, revealing seasonal fluctuations. 
+  - EDA and decomposition showed clear trends and seasonality.
+  - Data was split into training (1980-1990) and test (1991-1995) sets.
+
+- **Model Evaluation**:
+  - Various models were evaluated using RMSE. 
+  - The Triple Exponential Smoothing (Holt-Winters) model had the lowest RMSE of 378.63 on the test data.
+  - First-order differencing was applied to achieve stationarity, and ARIMA/SARIMA models were also built and evaluated.
+
+- **Best Model and Forecast**:
+  - The Triple Exponential Smoothing model was chosen for the final forecast with an RMSE of 368.01 for the next 12 months.
+
+#### Rose Wine
+
+- **Data and Methodology**:
+  - Time series data was read and plotted, with missing values interpolated.
+  - EDA and decomposition showed a downward trend and seasonal fluctuations.
+  - Data was split into training (1980-1990) and test (1991-1995) sets.
+
+- **Model Evaluation**:
+  - Various models were evaluated using RMSE.
+  - The Moving Average (2 points) model had the lowest RMSE of 11.53 on the test data.
+  - First-order differencing was applied to achieve stationarity, and SARIMA models were also built and evaluated.
+
+- **Best Model and Forecast**:
+  - The Moving Average (2 points) model was chosen for the final forecast with an RMSE of 17.66 for the next 12 months.
+
+#### Conclusions and Recommendations
+
+- **Sparkling Wine**:
+  - **Best Model**: Triple Exponential Smoothing.
+  - **Recommendation**: Increase production and availability during holiday seasons to maximize sales and profit.
+
+- **Rose Wine**:
+  - **Best Model**: Moving Average (2 points).
+  - **Recommendation**: Implement promotional strategies to boost sales or evaluate the cost-effectiveness of continuing production.
+
+<div style="text-align: justify;">
+This project demonstrates the application of time series forecasting techniques to real-world sales data, providing valuable insights and recommendations for business decision-making.
 
 </div>
 <p style="margin-bottom: 20px;">
