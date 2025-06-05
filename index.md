@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Rakshith Ramureddy's Portfolio
+title: Rakshith's Portfolio
 ---
 
 # Rakshith Ramureddy
