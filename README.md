@@ -1,4 +1,4 @@
-# Business Analyst
+# Data Analyst
 
 ## Skills
 
