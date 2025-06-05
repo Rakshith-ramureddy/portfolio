@@ -1,6 +1,7 @@
 ---
 title: Tableau Visualization
 layout: default
+render_with_liquid: true
 ---
 
 ## 📊 Tableau Dashboard – Car Insurance Claims
