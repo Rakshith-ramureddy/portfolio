@@ -45,5 +45,4 @@ I built an interactive dashboard highlighting trends in car insurance claims. St
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
   });
 </script>
-
 [View the interactive dashboard](https://public.tableau.com/views/DVT-Project_16435506976430/Story1)
