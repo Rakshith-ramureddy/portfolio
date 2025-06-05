@@ -65,7 +65,7 @@ Stakeholder Management, Requirements Gathering, User Stories, Cross-functional T
 
 - **[Tableau Visualization](projects/tableau_visualization.md)**
 
- {% include tableau-car-claims.html %}
+ {% includes tableau-car-claims.html %}
 
   Interactive dashboard on car insurance claims.
 
