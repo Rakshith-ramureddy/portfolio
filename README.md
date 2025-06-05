@@ -22,7 +22,7 @@
 
 ### Great Lakes Institute, India
 **04/2021 – 05/2022**
-- PGP – Data Science & Business Analytics (
+- PGP – Data Science & Business Analytics
 
 ### Visvesvaraya Tech University, India
 **08/2014 – 08/2020**
