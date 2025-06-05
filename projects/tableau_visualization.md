@@ -30,14 +30,16 @@ I built an interactive dashboard highlighting trends in car insurance claims. St
         <param name='filter' value='publish=yes' />
     </object>
 </div>
-<script type='text/javascript'>                    
-    var divElement = document.getElementById('viz1717531980231');                    
-    var vizElement = divElement.getElementsByTagName('object')[0];                    
-    vizElement.style.width='100%';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-    var scriptElement = document.createElement('script');                    
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+<script type='text/javascript'>
+    document.addEventListener('DOMContentLoaded', function () {
+        var divElement = document.getElementById('viz1717531980231');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+        vizElement.style.width = '100%';
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+        var scriptElement = document.createElement('script');
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    });
 </script>
 
 [View the interactive dashboard](https://public.tableau.com/views/DVT-Project_16435506976430/Story1)
