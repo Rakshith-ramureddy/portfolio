@@ -1,6 +1,4 @@
 
-
----
 layout: default
 title: SQL Orders Data Analysis
 ---
