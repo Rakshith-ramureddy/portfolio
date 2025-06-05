@@ -5,6 +5,8 @@ title: Machine Learning
 
 # Machine Learning
 
-Using real-world transportation data, I trained models to predict preferred travel modes and applied text mining to analyze Shark Tank pitches. The work demonstrated the breadth of supervised and unsupervised techniques.
 
 ![Machine learning](../assets/img/machine-learning.jpeg)
+
+- Predicted employee transport mode using several models; Gradient Boosting performed best.
+- Conducted text mining on Shark Tank pitches to identify language linked to successful deals.
