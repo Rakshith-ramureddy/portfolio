@@ -1,6 +1,6 @@
-
+---
 layout: default
-title: SQL Orders Data Analysis
+title: SQL Orders 
 ---
 
 # SQL: Orders Data Analysis
