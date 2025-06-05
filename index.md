@@ -64,7 +64,8 @@ Stakeholder Management, Requirements Gathering, User Stories, Cross-functional T
   Optimized an orders database for insights.
 
 - **[Tableau Visualization](projects/tableau_visualization.md)**
-  Interactive dashboard on car insurance claims.
+
+- Interactive dashboard on car insurance claims.
 
 ## Volunteering
 
