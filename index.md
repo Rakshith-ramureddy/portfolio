@@ -1,8 +1,4 @@
 
----
-layout: default
-title: Rakshith Ramureddy's Portfolio
----
 
 # Rakshith Ramureddy
 
@@ -75,5 +71,5 @@ Stakeholder Management, Requirements Gathering, User Stories, Cross-functional T
 
 
 <div style="text-align:center; margin-top:20px;">
-    &copy; 2025 Rakshith Ramureddy
+ 2025 Rakshith Ramureddy
 </div>
